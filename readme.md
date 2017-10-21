@@ -21,7 +21,7 @@ curl -s https://getcomposer.org/installer | php
 cd quick-app
 ```
 ```bash
-../composer.phar install
+php ../composer.phar install
 ```
 ```bash
 cp .env.example .env
